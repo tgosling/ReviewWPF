@@ -1,0 +1,16 @@
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\bin\Debug\ReviewForWPFFinal.exe.config
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\bin\Debug\ReviewForWPFFinal.exe
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\bin\Debug\ReviewForWPFFinal.pdb
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal.csprojAssemblyReference.cache
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\App.g.cs
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal_MarkupCompile.cache
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal_MarkupCompile.lref
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal.g.resources
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal.Properties.Resources.resources
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal.csproj.GenerateResource.cache
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal.csproj.CoreCompileInputs.cache
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal.exe
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\ReviewForWPFFinal.pdb
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\View\MainWindow.g.cs
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\View\MainWindow.baml
+D:\Documents\School\2019Level5WinterTerm\INFO5102GUI\workspace\ReviewForFinalWPF\ReviewForWPFFinal\obj\Debug\GeneratedInternalTypeHelper.g.cs

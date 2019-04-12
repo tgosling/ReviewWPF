@@ -1,0 +1,38 @@
+﻿<Window x:Class="ReviewForWPFFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReviewForWPFFinal"
+        xmlns:helper="clr-namespace:ReviewForWPFFinal.Helper"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <helper:FontSizeConverter x:Key="fontSizeConverter"/>
+    </Window.Resources>
+    <Grid>
+        <DockPanel LastChildFill="true">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_Exit" Command="{Binding exitCommand}"/>
+                </MenuItem>
+                <MenuItem Header="_Edit">
+                    <MenuItem Header="_Add" Command="{Binding addCommand}"/>
+                    <MenuItem Header="_Change" Command="{Binding changeCommand}"/>
+                </MenuItem>
+            </Menu>
+            <ListBox DockPanel.Dock="Left" Width="300" x:Name="lxb" ItemsSource="{Binding Squares}"
+                     SelectedIndex="{Binding MyIndex}"/>
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Height="60" VerticalAlignment="Top">
+
+                <Label x:Name="lblred" Width="60" Background="Red" Content="{Binding Red}"  FontSize="{Binding Red, Converter={StaticResource fontSizeConverter}}"/>
+                <Label x:Name="lblBA" Width="60" Background="BlanchedAlmond" Content="{Binding BlanchedAlmond}"/>
+                <Label x:Name="lblaqua" Width="60" Background="Aquamarine" Content="{Binding Aquamrine}"/>
+                <Label x:Name="lblylw" Width="60" Background="Yellow" Content="{Binding Yellow}"/>
+                <Label x:Name="lblbisq" Width="60" Background="Bisque" Content="{Binding bisque}"/>
+                <Label x:Name="lblCy" Width="60" Background="Cyan" Content="{Binding cyan}"/>
+            </StackPanel>
+            <Label x:Name="lblTotal" Content="{Binding ElementName=lblaqua,Path=Items.Count}"/>
+        </DockPanel>
+    </Grid>
+</Window>
